@@ -41,6 +41,9 @@ And others...
 - Architectury Versions ([Kotlin](https://github.com/Juuxel/architectury-versions.kt), [old Rust version](https://github.com/Juuxel/architectury-versions)): a CLI tool that finds the latest versions of Architectury and Fabric projects
 
 </details>
+
+---
+
 <details><summary><h2>Other projects 🧪</h2></summary>
 
 - [Gronkify](https://github.com/Juuxel/Gronkify): a cursed Gradle plugin that plays music during your long builds
