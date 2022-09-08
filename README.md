@@ -2,9 +2,9 @@
 
 I'm Juuz, a hobbyist developer who mostly makes Kotlin and Java projects - usually related to Minecraft.
 
-## Minecraft modding
+## Minecraft modding ⛏
 
-### Mods
+<details open=""><summary><h3>Mods 🎲</h3></summary>
 
 <p><a href="https://github.com/Juuxel/Adorn"><img src="https://i.imgur.com/wFpM7FG.png" alt="Adorn" height="80px"></a>
 <br><em>A decoration mod for Minecraft 1.14+ featuring furniture, trading, brewing and more!</em>
@@ -23,12 +23,14 @@ And others...
 - [Bee Angry-est](https://github.com/Juuxel/BeeAngry-est): makes bees angries and adds other bee-related content :bee:
 - [Tree Hat](https://github.com/Juuxel/TreeHat): adds wearable miniature trees
 
-### Libraries
+</details>
+<details><summary><h3>Libraries 📚</h3></summary>
 
 - [LibGui](https://github.com/CottonMC/LibGui): a modern GUI library for Fabric
 - Many APIs in [Fabric API](https://github.com/FabricMC/fabric), including the Screen Handler API and the Loot API
 
-### Tooling
+</details>
+<details><summary><h3>Tooling ⚙</h3></summary>
 
 - [Architectury](https://github.com/architectury): a cross-platform Minecraft modding toolchain
 - [loom-quiltflower](https://github.com/Juuxel/LoomQuiltflower): adds the Quiltflower decompiler to Loom-based development environments
@@ -38,7 +40,8 @@ And others...
 - [Architectury API Versions](https://github.com/Juuxel/architectury-api-versions) (Website): a website that finds the latest version of Architectury API
 - Architectury Versions ([Kotlin](https://github.com/Juuxel/architectury-versions.kt), [old Rust version](https://github.com/Juuxel/architectury-versions)): a CLI tool that finds the latest versions of Architectury and Fabric projects
 
-## Other projects
+</details>
+<details><summary><h2>Other projects 🧪</h2></summary>
 
 - [Gronkify](https://github.com/Juuxel/Gronkify): a cursed Gradle plugin that plays music during your long builds
 - [fc0](https://github.com/Juuxel/fc0): a modding toolchain for 2fc0f18
@@ -48,3 +51,5 @@ And others...
 - [Cucuwiki](https://github.com/Juuxel/cucuwiki): a minimal wiki made in Kotlin and TypeScript
 - [LibNinePatch](https://github.com/Juuxel/LibNinePatch): a simple Java 9patch renderer for any graphics API
 - [Jankson Record Adapter](https://github.com/Juuxel/JanksonRecordAdapter): an addon for [Jankson](https://github.com/falkreon/Jankson) that serialises Java records
+
+</details>
