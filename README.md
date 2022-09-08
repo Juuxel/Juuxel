@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I'm Juuz, a hobbyist developer who mostly makes Kotlin and Java projects - usually related to Minecraft.
+I'm Juuz, a hobbyist developer who mostly makes Kotlin and Java projects – usually related to Minecraft.
 
 ## Minecraft modding ⛏
 
