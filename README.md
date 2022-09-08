@@ -37,7 +37,7 @@ And others...
 - [AntiquityMC](https://github.com/AntiquityMC): modding Minecraft Classic 0.30 on a modern Fabric toolchain
 - [Fabric Filament](https://github.com/FabricMC/fabric-filament): a Gradle plugin to help with building deobfuscation mappings
 - [Unprotect](https://github.com/Juuxel/unprotect): a ModLauncher plugin that makes package-private and protected code public at runtime
-- [Architectury API Versions](https://github.com/Juuxel/architectury-api-versions) (Website): a website that finds the latest version of Architectury API
+- [Architectury API Versions](https://github.com/Juuxel/architectury-api-versions) ([website](https://juuxel.github.io/architectury-api-versions)): a website that finds the latest version of Architectury API
 - Architectury Versions ([Kotlin](https://github.com/Juuxel/architectury-versions.kt), [old Rust version](https://github.com/Juuxel/architectury-versions)): a CLI tool that finds the latest versions of Architectury and Fabric projects
 
 </details>
