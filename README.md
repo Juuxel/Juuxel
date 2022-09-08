@@ -51,5 +51,6 @@ And others...
 - [Cucuwiki](https://github.com/Juuxel/cucuwiki): a minimal wiki made in Kotlin and TypeScript
 - [LibNinePatch](https://github.com/Juuxel/LibNinePatch): a simple Java 9patch renderer for any graphics API
 - [Jankson Record Adapter](https://github.com/Juuxel/JanksonRecordAdapter): an addon for [Jankson](https://github.com/falkreon/Jankson) that serialises Java records
+- [Publish Checkstyle Report](https://github.com/Juuxel/publish-checkstyle-report): a GitHub action that shows Checkstyle errors inline as code annotations
 
 </details>
