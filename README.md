@@ -28,6 +28,7 @@ And others...
 
 - [LibGui](https://github.com/CottonMC/LibGui) (Java): a modern GUI library for Fabric
 - Many APIs in [Fabric API](https://github.com/FabricMC/fabric) (Java), including the Screen Handler API and the Loot API
+- [Implemented Inventory](https://gist.github.com/Juuxel/32ea65a4c820b63c20798917f0f73706) (Java): a simple implementation of Minecraft's `Inventory`
 
 </details>
 <details><summary><h3>Tooling ⚙</h3></summary>
