@@ -29,17 +29,19 @@ And others...
 - [LibGui](https://github.com/CottonMC/LibGui) (Java): a modern GUI library for Fabric
 - Many APIs in [Fabric API](https://github.com/FabricMC/fabric) (Java), including the Screen Handler API and the Loot API
 - [Implemented Inventory](https://gist.github.com/Juuxel/32ea65a4c820b63c20798917f0f73706) (Java): a simple implementation of Minecraft's `Inventory`
+- [Spindle](https://github.com/Juuxel/Spindle) (Java): a bridge to run Fabric Loader on ModLauncher
 
 </details>
 <details><summary><h3>Tooling ⚙</h3></summary>
 
 - [Architectury](https://github.com/architectury) (Java, Kotlin): a cross-platform Minecraft modding toolchain
-- [loom-quiltflower](https://github.com/Juuxel/LoomQuiltflower) (Java): adds the Quiltflower decompiler to Loom-based development environments
+- [Vineflower for Loom](https://github.com/Juuxel/loom-vineflower) (Java): adds the Vineflower decompiler to Loom-based development environments
 - [AntiquityMC](https://github.com/AntiquityMC) (Java): modding Minecraft Classic 0.30 on a modern Fabric toolchain
 - [Fabric Filament](https://github.com/FabricMC/fabric-filament) (Java): a Gradle plugin to help with building deobfuscation mappings
 - [Unprotect](https://github.com/Juuxel/unprotect) (Java): a ModLauncher plugin that makes package-private and protected code public at runtime
 - [Architectury API Versions](https://github.com/Juuxel/architectury-api-versions) ([website](https://juuxel.github.io/architectury-api-versions)): a website that finds the latest version of Architectury API
 - Architectury Versions ([Kotlin](https://github.com/Juuxel/architectury-versions.kt), [old Rust version](https://github.com/Juuxel/architectury-versions)): a CLI tool that finds the latest versions of Architectury and Fabric projects
+- [Mirror Upload](https://github.com/Juuxel/mirror-upload) (Rust): a tool to cross-publish Minecraft mod releases from GitHub to CurseForge and Modrinth
 
 </details>
 
